@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <item
+        android:id="@+id/menu_switch_panel"
+        android:title="Переключить панели"
+        android:icon="@android:drawable/ic_menu_revert" />
+    
+    <item
+        android:id="@+id/menu_settings"
+        android:title="Настройки подключения"
+        android:icon="@android:drawable/ic_menu_preferences" />
+    
+    <item
+        android:id="@+id/menu_connect"
+        android:title="Подключение к серверу"
+        android:icon="@android:drawable/ic_menu_upload" />
+    
+    <item
+        android:id="@+id/menu_disconnect"
+        android:title="Отключиться"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel" />
+    
+</menu>

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SMTS Messenger</string>
+    <string name="not_connected">Не подключено</string>
+    <string name="connected_as">Подключено как: %s</string>
+    <string name="contacts">Контакты</string>
+    <string name="messages">Сообщения</string>
+    <string name="information">Информация</string>
+    <string name="input_message">Ввод сообщения</string>
+    <string name="encrypted_connection">Шифрованное соединение</string>
+    <string name="send">Отправить</string>
+    <string name="send_file">Отправить файл</string>
+    <string name="enter_message">Введите сообщение...</string>
+    <string name="select_recipient">Выберите получателя</string>
+    <string name="connection_error">Ошибка подключения</string>
+    <string name="connection_settings">Настройки подключения</string>
+    <string name="server_ip">IP сервера:</string>
+    <string name="server_port">Порт сервера:</string>
+    <string name="handshake_password">Handshake пароль:</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+    <string name="connect_to_client">Подключение к клиенту</string>
+    <string name="client_id">ID клиента</string>
+    <string name="connect">Подключить</string>
+    <string name="disconnect">Отключиться</string>
+    <string name="settings_saved">Настройки сохранены</string>
+    <string name="settings_error">Ошибка сохранения настроек</string>
+    <string name="no_server_connection">Нет подключения к серверу</string>
+    <string name="cannot_connect_to_self">Нельзя подключиться к себе</string>
+    <string name="connection_already_exists">Подключение уже существует</string>
+    <string name="file_selection_not_implemented">Выбор файлов будет реализован позже</string>
+</resources>
